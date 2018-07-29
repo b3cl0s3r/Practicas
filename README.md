@@ -18,3 +18,7 @@ Se conecta a 1 host o X hosts a través de ssh. Comprueba el estado del servidor
 **serverrce.py**
 
 Programa cliente-servidor que permite a un único cliente ejecutar comandos en la máquina en la que se esté ejecutando el servidor.
+
+# C++
+
+------
