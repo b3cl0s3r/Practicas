@@ -21,4 +21,6 @@ Programa cliente-servidor que permite a un único cliente ejecutar comandos en l
 
 # C++
 
-------
+**muro**
+
+Desarrollo del reto de programación Crackless Wall en C++. No es una implementación eficiente debido a las estructuras de datos utilizadas
